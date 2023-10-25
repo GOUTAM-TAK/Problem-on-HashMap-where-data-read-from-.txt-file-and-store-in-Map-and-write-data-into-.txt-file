@@ -1,0 +1,6 @@
+Kali,CAT,16,100.0,
+Slow,TURTLE,1,50.0,
+Jerry,RAT,5,750.0,
+Rohu,FISH,25,900.0,
+Fast,RABBIT,9,1500.5,
+BullDog,DOG,10,2200.0,
